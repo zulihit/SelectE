@@ -3,11 +3,12 @@ Most knowledge graphs in the real world suffer from incompleteness which can be 
 
 ## Paper:
 SelectE: Multi-scale adaptive selection network for knowledge graph representation learning.
+
 https://www.sciencedirect.com/science/article/abs/pii/S0950705124001898
 
 ## Requirements:
 To reproduce the results, 
-1) pip install requirements.txt
+1) pip install -r requirements.txt
 2) run final.sh:
   ```shell
 #! /bin/bash
@@ -32,5 +33,5 @@ $python_env SelectE.py --data_path "./data" --run_folder "./" --data_name "FB15k
 ## Citation:
 Zu L, Lin L, Fu S, et al. SelectE: Multi-scale adaptive selection network for knowledge graph representation learning[J]. Knowledge-Based Systems, 2024: 111554.
 
-## Contact:
-Feel free to contact me with any problems. zuli_edu@outlook.com
+## ZhiHu:
+https://zhuanlan.zhihu.com/p/689176699
