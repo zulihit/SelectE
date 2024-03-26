@@ -51,7 +51,11 @@ $python_env SelectE.py --data_path "./data" --run_folder "./" --data_name "WN18R
 This repo benefits from ConvE,DeepE,M_DCN,InteractE and ConvR. Thanks for their wonderful works.
 
 ConvE: https://github.com/TimDettmers/ConvE
+
 DeepE: https://github.com/zhudanhao/DeepE
+
 M_DCN: https://github.com/zhifei1993/M_DCN
+
 InteractE: https://github.com/malllabiisc/InteractE
+
 ConvR: https://github.com/shuibinlong/ConvR
