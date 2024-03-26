@@ -48,7 +48,7 @@ $python_env SelectE.py --data_path "./data" --run_folder "./" --data_name "WN18R
 }
 
 ## Acknowledgement
-This repo benefits from ConvE,DeepE,M_DCN,InteractE and ConvR. Thanks for their wonderful works.
+This repo benefits from ConvE, DeepE, M_DCN, InteractE and ConvR. Thanks for their wonderful works.
 
 ConvE: https://github.com/TimDettmers/ConvE
 
